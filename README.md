@@ -1,3 +1,22 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## 目次
+
+- [:fish: 水研職員のための Git 学習の手引き](#fish-%E6%B0%B4%E7%A0%94%E8%81%B7%E5%93%A1%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE-git-%E5%AD%A6%E7%BF%92%E3%81%AE%E6%89%8B%E5%BC%95%E3%81%8D)
+  - [はじめに](#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB)
+    - [コンセプト](#%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%97%E3%83%88)
+  - [Git を5秒で表現すると？](#git-%E3%82%925%E7%A7%92%E3%81%A7%E8%A1%A8%E7%8F%BE%E3%81%99%E3%82%8B%E3%81%A8)
+  - [水研職員にとって重要な機能](#%E6%B0%B4%E7%A0%94%E8%81%B7%E5%93%A1%E3%81%AB%E3%81%A8%E3%81%A3%E3%81%A6%E9%87%8D%E8%A6%81%E3%81%AA%E6%A9%9F%E8%83%BD)
+    - [毎日使うもの](#%E6%AF%8E%E6%97%A5%E4%BD%BF%E3%81%86%E3%82%82%E3%81%AE)
+    - [状況に応じて使うもの](#%E7%8A%B6%E6%B3%81%E3%81%AB%E5%BF%9C%E3%81%98%E3%81%A6%E4%BD%BF%E3%81%86%E3%82%82%E3%81%AE)
+  - [実際の使い方](#%E5%AE%9F%E9%9A%9B%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9)
+  - [付録](#%E4%BB%98%E9%8C%B2)
+    - [インストール方法](#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%96%B9%E6%B3%95)
+      - [Windows](#windows)
+      - [Mac](#mac)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # :fish: 水研職員のための Git 学習の手引き
 
 ## はじめに
