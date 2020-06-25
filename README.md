@@ -1,3 +1,6 @@
+
+# :fish: 水研職員のための Git 学習の手引き
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## 目次
@@ -16,8 +19,6 @@
       - [Mac](#mac)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# :fish: 水研職員のための Git 学習の手引き
 
 ## はじめに
 
